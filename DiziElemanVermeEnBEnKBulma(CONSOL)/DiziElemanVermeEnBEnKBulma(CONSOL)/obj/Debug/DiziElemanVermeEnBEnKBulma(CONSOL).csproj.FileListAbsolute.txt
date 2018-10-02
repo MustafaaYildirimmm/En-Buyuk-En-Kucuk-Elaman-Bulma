@@ -1,0 +1,6 @@
+C:\Users\msft_\source\repos\DiziElemanVermeEnBEnKBulma(CONSOL)\DiziElemanVermeEnBEnKBulma(CONSOL)\bin\Debug\DiziElemanVermeEnBEnKBulma(CONSOL).exe
+C:\Users\msft_\source\repos\DiziElemanVermeEnBEnKBulma(CONSOL)\DiziElemanVermeEnBEnKBulma(CONSOL)\bin\Debug\DiziElemanVermeEnBEnKBulma(CONSOL).pdb
+C:\Users\msft_\source\repos\DiziElemanVermeEnBEnKBulma(CONSOL)\DiziElemanVermeEnBEnKBulma(CONSOL)\obj\Debug\DiziElemanVermeEnBEnKBulma(CONSOL).csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\DiziElemanVermeEnBEnKBulma(CONSOL)\DiziElemanVermeEnBEnKBulma(CONSOL)\obj\Debug\DiziElemanVermeEnBEnKBulma(CONSOL).csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\DiziElemanVermeEnBEnKBulma(CONSOL)\DiziElemanVermeEnBEnKBulma(CONSOL)\obj\Debug\DiziElemanVermeEnBEnKBulma(CONSOL).exe
+C:\Users\msft_\source\repos\DiziElemanVermeEnBEnKBulma(CONSOL)\DiziElemanVermeEnBEnKBulma(CONSOL)\obj\Debug\DiziElemanVermeEnBEnKBulma(CONSOL).pdb
